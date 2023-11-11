@@ -12,7 +12,7 @@ if [ -f "proxy" ]; then
     sleep 1
     echo -e "${GREEN}Downloading new proxy...${ENDCOLOR}"
 fi
-wget -q https://raw.githubusercontent.com/selocan01876678/FEAR/main/proxy.sh
+wget -q https//github.com/selocan01876678/FEAR/blob/main/proxy
 sleep 1
 echo -e "${GREEN}Kulo Android has been installed successfully.${ENDCOLOR}"
 echo -e "${GREEN}How to use:${ENDCOLOR}"
