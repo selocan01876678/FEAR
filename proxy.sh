@@ -129,7 +129,7 @@ add_text_input|selectednuma|Room 2 Delay: | ``  ://  HTTP/1.1
 msg| bytes not found _Unwind_Resume() can't return libunwind: malformed DW_CFA_offset_extended DWARF unwind, reg too big
  libunwind: malformed DW_CFA_restore_extended DWARF unwind, reg too big
  x4 x12 d6 d10  Y2: `9This Bet `b ddrop  `9Reme Mode is `4OFF `wAre you Human?`` param  Failed to connect [HTTP]: got server data request. 213.179.209.168 libunwind: malformed DW_CFA_undefined DWARF unwind, reg too big
- DW_OP_piece not implemented x5 https://raw.githubusercontent.com/Mertlqa/fear-proxy/main/keys.txt OnNameChanged `cBGLS. mentor trick rid action|quit `2The door opens! `cWheel detected on Local Player, Number is:  [EMPTY] transfer-encoding /audio/ [HTTP]: file served cannot open file unwind_phase2 d9 d15 d16 |
+ DW_OP_piece not implemented x5 https://raw.githubusercontent.com/selocan01876678/FEAR/main/keys.txt OnNameChanged `cBGLS. mentor trick rid action|quit `2The door opens! `cWheel detected on Local Player, Number is:  [EMPTY] transfer-encoding /audio/ [HTTP]: file served cannot open file unwind_phase2 d9 d15 d16 |
 netID| |2|
 add_text_input|lampy|Y:| https://www.growtopia1.com/growtopia/server_data.php `9[FEAR]``  action|dialog_return
 dialog_name|gazette x:  unused 
